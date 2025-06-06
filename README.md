@@ -1,4 +1,4 @@
-<center>![an example logo](https://srmcgann.github.io/sandbox/example.jpg)</center>
+![an example logo](https://srmcgann.github.io/sandbox/example.jpg)
     
 # My New Project
     
