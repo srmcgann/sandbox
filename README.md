@@ -4,7 +4,13 @@
 
 </center>
 
-    
+
+
+```js
+for(var i=0; i<10; i++)for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));for(x.fillRect(0,0,i=(w=c.width|=0)*6,w);i--;x.clearRect((M.atan2(X,Z)/1.57/2+1)*960,(q=M.acos(Y/d)/1.57)*535,s+(1-q)**2*s*9,s))s=1/(d=(M=Math).hypot(X=i/535%2-1,Y=i**.9%2-1,Z=1-(i**3.1+t/4)%2));
+```
+
+
 # My New Project
     
 click the ***view*** button above to see the effects
