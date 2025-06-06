@@ -20,7 +20,7 @@ you may insert ``code snippets`` like this
 
 or whole code blocks...
 
-```
+```js
 myFunc = () => {
   var str = "like this"
   return str
