@@ -40,7 +40,8 @@ onto as many pages as you like:
 
 links use [this format](https://github.com)<br><br>
 
-and images, similarly ![an example logo](example.jpg)
+and images, similarly
+![an example logo](example.jpg)
 
 ## other formatting options
 you may make **bold** text, or *italic*, or ***both***
